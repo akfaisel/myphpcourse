@@ -12,6 +12,6 @@ $email = $_POST['email'];
 <a href="register.php">Click Here</a>
 <?php
 //foreach($_POST as $data){
-    //echo $data;
+    //echo $data; day1
 //}
 ?>
